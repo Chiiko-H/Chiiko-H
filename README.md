@@ -1,4 +1,4 @@
-<p align="left">I'm Chiiko<br>I'm a software enginner.</p>
+<p align="left">I'm Chiiko aka Chihiro! <br>I'm a software enginner.</p>
 
 ###
 
